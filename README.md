@@ -1,0 +1,1 @@
+# BA_Projekt_Local_RAG
